@@ -1,2 +1,6 @@
 HEADER>STARGAME WEBSITE
+NTEXT>This is a STARGAME website.
+NTEXT>Here you can play online games
 BUTTON>Games>TEXT//stargame//games
+NTEXT>Infirmation about Stargame:
+NTEXT>Our games: Snake, Labirint, Space Shooter, Simulator metro 3D and more
